@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Fulfilling of prophecies, or, The Prophecies and predictions of the late learned and Reverend James Usher, Ld. Archbishop of Armagh, and Lord Primate of Ireland relating to England, Scotland, and Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23257</idno><idno type="EEBO-CITATION">19318251</idno>
+  <idno type="VID">205497</idno>
+  <idno type="EEBO-PROQUEST">2240860044</idno>
+  
+            <idno type="STC">Wing F2259A</idno>
+            <idno type="OCLC">19318251</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Fulfilling of prophecies, or, The Prophecies and predictions of the late learned and Reverend James Usher, Ld. Archbishop of Armagh, and Lord Primate of Ireland relating to England, Scotland, and Ireland.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In double columns.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ussher, James, 1581-1656.</term>
+               <term type="geographic_name">Great Britain --  History --  Prophecies.</term>
+               <term type="geographic_name">Great Britain --  History --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205497:1"/>
+            <head>THE <hi>Fulfilling of Prophecies:</hi> OR THE PROPHECIES AND PREDICTIONS Of the late Learned and Reverend JAMES USHER, Ld. Archbishop of Armagh, And Lord Primate of IRELAND: Relating to <hi>ENGLAND, SCOTLAND,</hi> and <hi>IRELAND.</hi>
+            </head>
+            <p>Licensed and Entred according to Order.</p>
+            <p>THough in these latter Ages of the Church, many Learned and Prous Men, have made it a questi<g ref="char:EOLhyphen"/>on, whether God now speaks to any by a pro<g ref="char:EOLhyphen"/>phetick Spirit; yet surely 'twere a great Bold<g ref="char:EOLhyphen"/>ness and Presumption for any peremptorily to determine that he does not; for though it must be acknow<g ref="char:EOLhyphen"/>ledged, that these ways of God's revealing himself, are less frequent in these last and worst times, since the great Reason assigned for the frequency of Miracles and Revelation in the first Ages of the Church, <hi>viz.</hi> (for converting men to, and conforming them in the Christian Faith,) is in a great mea<g ref="char:EOLhyphen"/>sure ceased; <hi>For we have now a more sure word of Testimony,</hi> as the Apostle Saint <hi>Peter</hi> says, <hi>to wit, the written word of God:</hi> Wherein we have the Christian Doctrine displayed, together with the Lives, Miracles, and Examples of our Saviour and his Apostles. But there is nothing has brought the matter of Prophecy and Revelation so much into question, as the Frauds and Forgeries of Lying Popish Priests, who by counterfeit Miracles have strove each one to establish their several Orders; or for the magnifying their particular Saints, Patrons, or Pa<g ref="char:EOLhyphen"/>tronesses, have filled the World with most ridiculous and ab<g ref="char:EOLhyphen"/>surd Stories of pretended Miracles: But God be thanked, the Authour we have here proposed is removed far enough from the Exception that may be justly taken against those we were speaking of, being a Person of that known Learning, Piety, and Integrity; for all which he is samed through the Christian World, that 'twould be needless as well as impossi<g ref="char:EOLhyphen"/>ble for me to recommend him.</p>
+            <p>Now to confirm what I have been saying, that the Spirit of Prophecy has not wholly left the world, even in this Age, I have here proposed this great Man, Archbishop <hi>Ʋsher,</hi> for an Example, as it is delivered by Dr. <hi>Bernard,</hi> Chaplain to the Archbishop. And certainly let any Man lay aside Prejudice, and reflect on what has been already accomplished, as to his own particular, as well as in some part to <hi>Ireland</hi> formerly, and what is now sadly fulfilling in that miserable Kingdom, and he will be forced to confess, that this holy Man was in<g ref="char:EOLhyphen"/>deed a Prophet.</p>
+            <p>The Author of the Life of this Excellent and Worthy Pri<g ref="char:EOLhyphen"/>mate and Archbishop, gives an Account, that among other extraordinary gifts and graces, which it pleased the Almigh<g ref="char:EOLhyphen"/>ty to bestow upon him, he was wonderfully endued with a Spirit of Prophecy, whereby he gave out several true Pre<g ref="char:EOLhyphen"/>dictions and Prophesies of things a great while before they came to pass, whereof some we have seen fulfilled, and others remain yet to be accomplished. And though he was one that abhorr'd Enthusiastick Notions, being too Learned, Rational, and knowing, to admit of such idle Freaks and Whimsies, yet he profest, <hi>That several times in his Life he had many things imprest upon his mind, concerning future Events, with so much warmness and importunity, that he was not able to keep them secret, but lay under an unavoidable necessity to make them known.</hi>
+            </p>
+            <p>From which Spirit he foretold the <hi>Irish</hi> Rebellion Forty years before it came to pass, with the very time when it should break forth, in a Sermon Preached in <hi>Dublin</hi> in 1601. where from <hi>Ezek.</hi> 4. 6. <hi>Discoursing concerning the Prophets bearing the Iniquity of</hi> Judah <hi>forty days, the Lord therein appointed a day for a year; he made this direct Application in Relation to the connivance at Popery at that time.</hi> From this year <hi>(says he)</hi> will I reckon the sin of <hi>Ireland,</hi> that those whom you now imbrace, shall be your Ruine, and you shall bear this Iniquity. <hi>Which Predicti<g ref="char:EOLhyphen"/>on proved exactly true; for from that time</hi> 1601. <hi>to the year</hi> 1641. <hi>was just forty years, in which it is notoriously known, that the Re<g ref="char:EOLhyphen"/>bellion and Destruction of</hi> Ireland <hi>happened, which was acted by those Popish Priests, and other Papists, who were then connived at.</hi> And of this Sermon the Bishop reserved the Notes, and put a Note thereof in the margent of his Bible, and for 20 years before he still lived in the expectation of the fulfilling there<g ref="char:EOLhyphen"/>of, and the nearer the time was, the more confident he was, that it was near accomplishment, though there was no visible appearance of any such thing; and (says Dr. <hi>Bernard) The year before the Rebellion broke forth, the Bishop taking his leave of me, being then going from</hi> Ireland <hi>to</hi> England, <hi>he advised me to a serious preparation, for I should see heavy sorrow; and miseries before I saw him again; which he delivered with as great confi<g ref="char:EOLhyphen"/>dence,</hi>
+               <pb n="2" facs="tcp:205497:2"/>
+               <hi>as if he had seen it with his Eyes, which seems to verifie that of the Prophet,</hi> Amos 3. 7. Surely the Lord will do no<g ref="char:EOLhyphen"/>thing but he will reveal it to his Servants the Prophets.</p>
+            <p>From this Spirit of Prophesie, <hi>he foresaw the Changes and Miseries of</hi> England <hi>in</hi> Church <hi>and</hi> State, <hi>for having in one of his Books (called</hi> De Prim. Eccl. Brit.) <hi>given a large account of the destruction of the</hi> Church <hi>and</hi> State <hi>of the</hi> Britains <hi>by the</hi> Saxons, <hi>about</hi> 550 <hi>years after Christ,</hi> he gives this among other Reasons, why he insisted so largely upon it, <hi>that he foresaw that a like Judgment was yet behind, if timely Repentance and Reformation did not prevent it; and he would often mourn upon the foresight of this long before it came.</hi>
+            </p>
+            <p>From this Spirit <hi>he gave mournfull intimations of the Death of our late Sovereign</hi> Charles <hi>the First, of whom he would be often speaking with fear and trembling, even when the King had the greatest success, and would therefore constantly pray, and gave all advice possible to prevent any such thing.</hi>
+            </p>
+            <p>From this Spirit, <hi>he foresaw his own Poverty in worldly things,</hi> and this he would often speak of with admiration to the hea<g ref="char:EOLhyphen"/>rers, when he was in his greatest Prosperity, which the event did most certainly verifie.</p>
+            <p>From this Spirit, <hi>he predicted the Divisions and Confusions in</hi> England <hi>in matters of</hi> Religion, <hi>and the sad consequents thereof, some of which we have seen fulfilled, and I pray God the rest which he feared may not also be accomplished upon us.</hi>
+            </p>
+            <p>Lastly, from this Spirit he foretold, <hi>That the greatest stroke upon the</hi> Reformed Churches <hi>was yet to come; and that the time of the utter Ruine of the See of</hi> Rome <hi>should be when she thought her self most secure:</hi> And as to this last, <hi>I shall add a brief Ac<g ref="char:EOLhyphen"/>count from the Persons own hand who was concerned therein,</hi> which followeth in these words:</p>
+            <p>The Year before this learned and holy Primate, Archbishop <hi>Ʋsher</hi> dyed, I went to him, and earnestly desired him to give me in Writing his apprehensions concerning Justification and Sanctification by Christ, because I had formerly heard him preach upon those points, wherein he seemed to make those great Mysteries more intelligible to my mean capacity, than any thing which I had ever heard from any other; but be<g ref="char:EOLhyphen"/>cause I had but an imperfect and confused remembrance of the particulars, I took the boldness to importune him, that he would please to give a brief account of them in Writing, whereby I might the better imprint them in my Memory, of which he would willingly have excused himself, by declaring his Intentions of not writing any more, adding, that if he did write any thing, it should not exceed above a sheet or two; but upon my continued importunity, I at last obtained his promise.</p>
+            <p>He coming to Town some time after, was pleased to give me a visit at my own House, where I failed not to challenge the benefit of the Promise he had made me: He replied, <hi>That he had not writ, and yet he could not charge himself with any breach of Promise; for</hi> (said he) <hi>I began to write, but when I came to write of Sanctification, that is, of the New Creature, which God formeth by his own Spirit in every Soul which he doth truly regene<g ref="char:EOLhyphen"/>rate, I found so little of it wrought in my self, that I could speak of it only as Parrots, by routte, and without the knowledge and under<g ref="char:EOLhyphen"/>standing of what I might have exprest, and therefore I durst not presume to proceed any farther upon it.</hi>
+            </p>
+            <p>And when I seem to stand amazed to hear such an humble Confession from so great an experienced a Christian: He ad<g ref="char:EOLhyphen"/>ded, <hi>I must tell you, we do not well understand what Sanctification and the New Creature are: It is no less than for a man to be brought to an entire resignation of his Will to the Will of God, and to live in the Offering up of his Soul continually in the Flames of Love, as a whole Burnt-Offering to Christ; and how little</hi> (says he) <hi>are many of those who prosess Christianity experimentally acquainted with this work on their Souls.</hi>
+            </p>
+            <p>By this Discourse I conceived he had very excellently and clearly discovered to me that part of Sanctification which he was unwilling to write.</p>
+            <p>I then presumed to enquire of him <hi>what his present apprehen<g ref="char:EOLhyphen"/>sions were concerning a very great Persecution which should fall upon the Church of God in these Nations of</hi> England, Scotland, <hi>and</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>of which this Reverend Primate had spoken with great con<g ref="char:EOLhyphen"/>fidence many years before, when we were in the highest and fullest state of outward Peace and Settlement. I asked him whether he did believe those sad times to be past, or that they were yet to come.</hi> To which he answered, <hi>That they were yet to come, and that he did as confidently expect it as ever he had done:</hi> adding, <hi>That this said Persecution would fall upon all the Protestant Churches in</hi> Europe. I replied, <hi>That I did hope it might have been past as to <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ours, since I thought, that though we, who are the People thereof, have been punished much less than our sins have de<g ref="char:EOLhyphen"/>served, and that our late Wars had made far less devastations than War commonly brings upon those Countries where it pleaseth God in Judgment to suffer it; yet we must needs acknowledg, that many great Houses had been burnt, ruined, and left without Inhabitants, many great Families impoverished and undone, and many thousand <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ives also had been lost in that bloudy War, and that</hi> Ireland <hi>and</hi> Scotland, <hi>as well as</hi> England, <hi>had drunk very deep of the Cup of God's Anger, even to the overthrow of the Government, and the utter desolation almost of a very great part of those Countries.</hi>
+            </p>
+            <p>But this holy Man, turning to me, and fixing his Eyes up<g ref="char:EOLhyphen"/>on me with a serious and irefull look, which he usually had when he spake God's word, and not his own; and when the Power of God seemed to be upon him, and to constrain him to speak, which I could easily discern much to differ from the countenance wherewith he usually spake to me; he said thus:</p>
+            <p>
+               <hi>Fool not your self with such hopes, for I tell you, All you have yet seen hath been but the beginning of sorrows to what is yet to come upon the Protestant Churches of Christ, who will e'er long fall under a sharper Persecution than ever yet was upon them; and therefore</hi> (said he to me) <hi>look you be not found in the outward Court, but a Worshipper in the Temple before the Altar; for Christ will measure all those that profess his Name, and call themselves his People; and the outward Worshippers he will leave out to be trodden down by the Gentiles. The outward Court</hi> (says he) <hi>is the formal Christian, whose Religion lies in performing the outward Duties of Christianity, without having an inward life, and power of Faith and Love uni<g ref="char:EOLhyphen"/>ting them to Christ, and these God will leave to be trodden down, and swept away by the Gentiles; but the Worshippers within the Temple, and before the Altar, are those who do indeed worship God in Spirit and in Truth, whose Souls are made his Temple, and he is honoured and adored in the most inward thought of their hearts, and they sacrifice their Lusts and vile affections, yea, and their own wills to him; and these God will hide in the hollow of his hand, and under the shadow of his Wings. And this shall be one great difference be<g ref="char:EOLhyphen"/>tween this last and all the other preceding Persecutions; For in the former the most eminent and spiritual Ministers and Christians did generally suffer most, and were most violently fallen upon; but in this last Persecution these shall be preserved by God as a Seed to par<g ref="char:EOLhyphen"/>take of that Glory which shall immediately follow, and come upon the Church, as soon as ever this Storm shall be over; for as it shall be the sharpest, so it shall be shortest Persecution of them all; and shall only take away the gross Hypocrites and formal Professours, but the true Spiritual Believers shall be preserved till the Calamity be over.</hi>
+            </p>
+            <p>I then asked him, <hi>By what Means or Instruments this great Tryal should be brought on?</hi> He answered, <hi>By the Papists.</hi> I re<g ref="char:EOLhyphen"/>plied, <hi>That it seemed to me very improbable they should be able to doe it, since they were now little countenanced, and but few in these Nations, and that the hearts of the People were more set against them than ever since the Reformation.</hi> He answered again, <hi>That it would be by the hands of Papists, and in the way of a sudden Massacre; and that the then Pope should be the chief Instrument of it.</hi>
+            </p>
+            <p>All this he spake with so great Assurance, and with the same serious and concerned Countenance, which I have be<g ref="char:EOLhyphen"/>fore observed him to have, when I have heard him foretell some things which in all humane Appearance were very un<g ref="char:EOLhyphen"/>likely to come to pass, which yet I my self have lived to see happen according to his Prediction, and this made me to give the more earnest Attention to what he then uttered.</p>
+            <p>He then added, <hi>That the Papists were in his Opinion the</hi> Gen<g ref="char:EOLhyphen"/>tiles <hi>spoken of in the 11th of the</hi> Revelations, <hi>to whom the outward Court should be left, that they might tread it under foot: They ha<g ref="char:EOLhyphen"/>ving received the</hi> Gentiles <hi>Worship, in their adoring Images, and Saints departed, and in taking to themselves many Mediatours: And this</hi> (said he) <hi>the Papists are now designing among themselves, and therefore be sure you be ready.</hi>
+            </p>
+            <p>This was the substance, and I think (for the greatest part) the very same words which this holy Man spake to me at the time before mentioned, not long before his death, and which I writ down, that so great and notable a Prediction might not be lost and forgotten by my self and others.</p>
+            <p>This gracious Man repeated the same things in substance to his onely Daughter the Lady <hi>Tyrril,</hi> and that with many tears and much about the same time that he had expressed what <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aforesaid to me, and which the Lady <hi>Tyrril</hi> assured me of wi<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> her own mouth to this purpose.</p>
+            <p>That opening the Door of his Chamber, <hi>She found him with his Eyes lift up to Heaven, and the Tears running apace down his Cheeks, and that he seemed to be in an Ecstasie, wherein he conti<g ref="char:EOLhyphen"/>nued for about half an hour, not taking any notice of her, though she came into the Room; but at last turning to her, he told her, That his Thoughts had been taken up about the Miseries and Persecutions that were coming upon the Churches of Christ, which would be so sharp and bitter, that the contemplation of them had fetched those Tears from his Eyes, and that he hoped he should not live to see it, but possibly she might, for it was even at the Door: Therefore take heed</hi> (says he) <hi>that you be not found sleeping.</hi>
+            </p>
+            <p>The same things he also repeated to the Lady <hi>Bysse,</hi> Wife to the present Lord Chief Baron of <hi>Ireland,</hi> but with adding this circumstance, That if they brought back the King, it might be delayed a little longer, <hi>But</hi> (said he) <hi>it will surely come, therefore be sure to look that you be not found unprepared for it.</hi>
+            </p>
+            <p>To conclude in the words of Dr. <hi>Bernard,</hi> speaking of this excellent Person, <hi>Now howsoever I am as far from heeding of Prophesies this way as any, yet with me it is not improbable, that so great a Prophet, so sanctified from his youth, so knowing and emi<g ref="char:EOLhyphen"/>nent throughout the Ʋniversal Church, might have at some special times more than ordinary Motions and Impulses, in doing the Watch<g ref="char:EOLhyphen"/>man's part, of giving warning of Judgments approaching.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be sold by <hi>R. Baldwin</hi> in the <hi>Old Baily,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
